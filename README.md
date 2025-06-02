@@ -6,7 +6,7 @@
 
 🌱 Estou aprendendo mais sobre visualização de dados no momento
 
-💬 Adoro conversar sobre análise de dados e Python!
+💬 Adoro conversar sobre análise de dados e Python
 
 ⚡ Curiosidade: amo jogar videogames!
 
