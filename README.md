@@ -2,13 +2,13 @@
 
 # Sobre mim
 
-📚 Atualmente curso Engenharia de Computação na UNICAMP
+📚 Estudo Engenharia de Computação na UNICAMP
 
-🌱 Estou aprendendo mais sobre visualização de dados no momento
+🌱 Estou aprendendo mais sobre engenharia de dados no momento
 
-💬 Adoro conversar sobre análise de dados e Python
+💬 Adoro conversar sobre dados!
 
-⚡ Curiosidade: amo jogar videogames!
+⚡ Curiosidade: amo jogar videogames :) 
 
 # Tecnologias 
 
