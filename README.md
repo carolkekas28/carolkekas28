@@ -4,7 +4,7 @@
 
 📚 Estudo Engenharia de Computação na UNICAMP
 
-🌱 Estou aprendendo mais sobre engenharia de dados no momento
+👩‍💻 Sou estagiária de Business Analytics
 
 💬 Adoro conversar sobre dados!
 
