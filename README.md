@@ -4,11 +4,11 @@
 
 📚 Estudo Engenharia de Computação na UNICAMP
 
-👩‍💻 Sou estagiária de Business Analytics
+👩‍💻 Sou estagiária de Business Analytics no Nubank
 
-💬 Adoro conversar sobre dados!
+💬 Curto conversar sobre dados!
 
-⚡ Curiosidade: amo jogar videogames :) 
+⚡ Curiosidade: amo jogar videogames e adoro ir ao cinema :) 
 
 # Tecnologias 
 
