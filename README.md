@@ -8,7 +8,7 @@
 
 💬 Curto conversar sobre dados!
 
-⚡ Curiosidade: amo jogar videogames e adoro ir ao cinema :) 
+⚡ Curiosidade: amo jogar videogames (especialmente RPGs) e adoro ir ao cinema :) 
 
 # Tecnologias 
 
