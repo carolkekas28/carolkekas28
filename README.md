@@ -4,7 +4,7 @@
 
 📚 Currently studying Computer Engineering at UNICAMP
 
-👩‍💻 I'm a Business Analytics Internet at Nubank
+👩‍💻 I'm a Business Analytics intern at Nubank
 
 💬 I enjoy talking about data!
 
