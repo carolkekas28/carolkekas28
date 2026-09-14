@@ -10,7 +10,7 @@
 
 ⚡ Fun fact: I love videogames (especially RPGs) and watching movies :)
 
-# Tecnologias 
+# Tecnologies
 
 ## Languages
 
